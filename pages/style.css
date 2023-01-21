@@ -881,7 +881,6 @@ h3 {
 
     .contacts-img img {
         height: 248px;
-        width: 100%;
         padding-top: 245px;
     }
 
@@ -1031,6 +1030,7 @@ h3 {
         width: 100px;
         border-radius: 10px;
         font-size: 10px;
+        color: black;
 
     }
 
